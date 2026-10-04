@@ -2000,7 +2000,7 @@ HeaderTitle.BackgroundTransparency = 1
 HeaderTitle.Font = Enum.Font.GothamBold
 HeaderTitle.TextSize = 18
 HeaderTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
-HeaderTitle.Text = "SAPPIRE HUB"
+HeaderTitle.Text = "KOF HEX 9"
 HeaderTitle.RichText = false
 
 local TitleGradient = Instance.new("UIGradient", HeaderTitle)
